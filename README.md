@@ -1,2 +1,0 @@
-# deno-hiiiii
-Begin app
